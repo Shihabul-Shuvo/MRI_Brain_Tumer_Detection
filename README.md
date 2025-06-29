@@ -10,7 +10,7 @@ The MRI Tumor Detection System is a web-based application designed to assist med
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Sample Images
-[Sample MRI Image](https://github.com/Shihabul-Shuvo/MRI_Brain_Tumer_Detection/blob/main/uploads/Te-pi_0252.jpg)
+![Sample MRI Image](https://github.com/Shihabul-Shuvo/MRI_Brain_Tumer_Detection/blob/main/uploads/Te-pi_0252.jpg)
 
 ## Project Preview
 [Project Snapshot](https://github.com/Shihabul-Shuvo/MRI_Brain_Tumer_Detection/blob/main/uploads/project_preview.png)
